@@ -222,3 +222,7 @@ const sliders = function () {
 sliders();
 
 //-100%, 0%, -100%, -200%
+
+const NewElement = function () {
+  console.log('Hey');
+};
